@@ -1,7 +1,7 @@
 Welcome to my GitHub profile
 
 # About Me
-Hello! My name is mahdi alimohammadi, and I'm an experienced front-end developer with a focus on web technologies. I'm a passionate front-end developer who loves crafting beautiful and functional user interfaces. I have a strong command of ```HTML```, ```CSS```, and ```JavaScript```, and I utilize modern frameworks like vue.js to build web applications.
+Hello! My name is mahdi alimohammadi, and I'm an experienced front-end developer with a focus on web technologies. I'm a passionate front-end developer who loves crafting beautiful and functional user interfaces. I have a strong command of ```HTML```, ```CSS```, and ```JavaScript```, and I utilize modern frameworks like ```vue.js``` to build web applications.
 
 <img align="center" src="https://s6.uupload.ir/files/20230825004153_[fpdl.in]_software-development-programming-coding-vector-concept_123447-266_normal_lys.jpg">
 
