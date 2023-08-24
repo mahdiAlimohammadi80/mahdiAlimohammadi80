@@ -28,7 +28,7 @@ I'm always open to discussing new ideas or addressing any inquiries you may have
 
 - Email: [Your Email Address](mailto:your.email@example.com)
 - Telegram: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
-- Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle/)
+- Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle/) ![Instagram Icon](https://example.com/instagram-icon.png)
  
   
 
