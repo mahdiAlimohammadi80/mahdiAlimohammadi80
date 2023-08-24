@@ -2,7 +2,6 @@ Welcome to my GitHub profile
 
 # About Me
 Hello! My name is mahdi alimohammadi, and I'm an experienced front-end developer with a focus on web technologies. I'm a passionate front-end developer who loves crafting beautiful and functional user interfaces. I have a strong command of ```HTML```, ```CSS```, and ```JavaScript```, and I utilize modern frameworks like ```vue.js``` to build web applications.
-
 <img align="center" src="https://s6.uupload.ir/files/20230825004153_[fpdl.in]_software-development-programming-coding-vector-concept_123447-266_normal_lys.jpg">
 
 ### My Expertise 
@@ -26,9 +25,9 @@ Hello! My name is mahdi alimohammadi, and I'm an experienced front-end developer
 
 I'm always open to discussing new ideas or addressing any inquiries you may have. You can reach me through the following platforms:
 
-- Email: [Your Email Address](mailto:your.email@example.com)
-- Telegram: [@YourTelegramHandle](https://t.me/YourTelegramHandle)
-- Instagram: [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle/) ![Instagram Icon](https://example.com/instagram-icon.png)
+- Email: <a href="https://www.instagram.com/YourInstagramHandle/"><img src="https://github.com/mahdiAlimohammadi80/mahdiAlimohammadi80/blob/main/icons8-instagram-64.png?raw=true" alt="Instagram Icon" width="18" height="18"> @YourInstagramHandle</a>
+- Telegram: <a href="https://www.instagram.com/YourInstagramHandle/"><img src="https://github.com/mahdiAlimohammadi80/mahdiAlimohammadi80/blob/main/icons8-telegram-48%20(1).png?raw=true" alt="Instagram Icon" width="18" height="18"> @YourTelegramHandle</a>
+- Instagram: <a href="https://www.instagram.com/YourInstagramHandle/"><img src="https://github.com/mahdiAlimohammadi80/mahdiAlimohammadi80/blob/main/icons8-gmail-48.png?raw=true" alt="Instagram Icon" width="18" height="18"> @YourInstagramHandle</a>
  
   
 
